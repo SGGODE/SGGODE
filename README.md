@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="mailto: sanketgode5@gmail.com"><button type="submit" id="submit">G-mail</button></a>
+<a href="mailto: sanketgode5@gmail.com"><button type="submit" id="submit" style="background:red">G-mail</button></a>
 <!--
 **SGGODE/SGGODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

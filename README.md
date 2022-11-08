@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    This is Sanket Gode, a <b>third year</b> undergraduate from <a href="https://ssgmce.ac.in/"> <b>SSGMCE Shegaon</b></a> in Information & Technology stream.
+    This is Sanket Gode, a <b>third year</b> Student from <a href="https://ssgmce.ac.in/"> <b>SSGMCE Shegaon</b></a> in Information & Technology stream.
     A budding <b>Frontend Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> <b>Obsessed</b>
     with the idea of <b>learning & exploring</b>. Wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 

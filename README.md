@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi,I'm Sanket Gode</h1>
-<h3 align="center">Frontend Dev.    ||    Competivtive Programmer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sanket-gode-89312b1b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Leetcode" height="30" width="40" /></a>

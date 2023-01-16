@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/97dzocwezsVEpHmX2T/giphy.gif" height="200"/>
+  <img src="https://media.giphy.com/media/MgNKENhci39urj5djQ/giphy.gif" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi,I'm Sanket Gode</h1>

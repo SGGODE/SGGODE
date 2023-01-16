@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[download.jpg](https://drive.google.com/file/d/1hxirCTRnVIflysVGgiSBNnTRstwdRYUd/view?usp=sharing)" height="200"/>
+  <img src="https://media.giphy.com/media/97dzocwezsVEpHmX2T/giphy.gif" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi,I'm Sanket Gode</h1>
@@ -9,16 +9,15 @@
 <a href="https://leetcode.com/defcve/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Leetcode" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sanketgode0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
  <a href = "mailto: sanketgode0@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-  <a href="https://github.com/SGGODE" target="_blank"><img align="center" src="download (1).png" alt="GitLab" height="30" width="40" /></a>
 </p>
 </p>
 
 <p align="center">
   <em>
     This is Sanket Gode, a <b>third year</b> Student from <a href="https://ssgmce.ac.in/"> <b>SSGMCE Shegaon</b></a> in Information & Technology stream.
-    A budding <b>Frontend Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> <b>Obsessed</b>
+    A budding <b>Full-Stack Developer</b> <img src="https://media.giphy.com/media/MgNKENhci39urj5djQ/giphy.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> <b>Obsessed</b>
     with the idea of <b>learning & exploring</b>. Wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>grow</b> <img src="https://media.giphy.com/media/MgNKENhci39urj5djQ/giphy.gif" width="22px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>

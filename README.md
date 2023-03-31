@@ -14,7 +14,7 @@
 <p align="center">
   <em>
     This is Sanket Gode, a <b>third year</b> Student from <a href="https://ssgmce.ac.in/"> <b>SSGMCE Shegaon</b></a> in Information & Technology stream.
-    A budding <b>Full-Stack Developer</b> <img src="https://media.giphy.com/media/MgNKENhci39urj5djQ/giphy.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> <b>Obsessed</b>
+    A budding <b>Developer</b> <img src="https://media.giphy.com/media/MgNKENhci39urj5djQ/giphy.gif" width="30px"> and a <b>Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> <b>Obsessed</b>
     with the idea of <b>learning & exploring</b>. Wants a <b>platform</b> to 
     <b>grow</b> <img src="https://media.giphy.com/media/MgNKENhci39urj5djQ/giphy.gif" width="22px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.

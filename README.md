@@ -13,11 +13,12 @@
 
 <p align="center">
   <em>
-    This is Sanket Gode, a <b>final year</b> Student from <a href="https://ssgmce.ac.in/"> <b>SSGMCE Shegaon</b></a> in Information & Technology stream.
-    A budding <b>Developer</b> <img src="https://media.giphy.com/media/MgNKENhci39urj5djQ/giphy.gif" width="30px"> and a <b>Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> <b>Obsessed</b>
-    with the idea of <b>learning & exploring</b>. Wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://media.giphy.com/media/MgNKENhci39urj5djQ/giphy.gif" width="22px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+<!--     This is Sanket Gode, a <b>final year</b> Student from <a href="https://ssgmce.ac.in/"> <b>SSGMCE Shegaon</b></a> in Information & Technology stream.
+    A budding <b>Developer</b> <img src="https://media.giphy.com/media/MgNKENhci39urj5djQ/giphy.gif" width="30px"> and a <b>Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> <b>Obsessed</b> -->
+    Engineering Graduate with Development and Data Science Skills
+    Creating End-to-End Projects, 2000+ on LeetCode in In Top 2.8%, Contributed in 50+ Articles on GeeksforGeeks
+     <img src="https://media.giphy.com/media/MgNKENhci39urj5djQ/giphy.gif" width="22px">
+     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
